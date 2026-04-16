@@ -1,5 +1,5 @@
 ## Hi there 👋
--Highschool student wanting to discover all about computer science
+-Curious and wanting to discover all about computer science
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanrunsit)](https://github.com/anuraghazra/github-readme-stats)
 
