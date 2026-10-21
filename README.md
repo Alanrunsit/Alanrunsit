@@ -8,7 +8,7 @@ I'm a student who's curious about everything in computer science. I mostly build
 | --- | --- | --- |
 | [Stochastic Market Engine](https://github.com/Alanrunsit/Stochastic-Market-Engine) | Monte Carlo stock simulator. Pick a risk level and watch possible price paths fan out | Python, NumPy, Matplotlib |
 | [PinPoint](https://github.com/Alanrunsit/PinPoint_FBLA) | Web app for discovering local small businesses, with reviews, bookmarks, and a deal scraper | Python, Flask, SQLite |
-| [Birthday Candles](https://github.com/Alanrunsit/birthday-candles) | Light a cake with your finger and blow out the candles for real. Built for HUES Tech Night | JavaScript, MediaPipe, Web Audio |
+| [Birthday Candles](https://github.com/Alanrunsit/birthday-candles) | Light a cake with your finger and blow out the candles for real. Built for HUES Tech Night. [▶ Play it](https://alanrunsit.github.io/birthday-candles/) | JavaScript, MediaPipe, Web Audio |
 | [Blog Generator](https://github.com/Alanrunsit/blog-generator) | CLI tool that writes blog posts on any topic | Python, OpenAI API |
 
 ### Learning in public
